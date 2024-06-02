@@ -8,7 +8,7 @@ import { Router } from '@angular/router';
 })
 export class ToolbarComponent {
   constructor(private router: Router) {}
-  siteParts = ['tales'];
+  siteParts = ['tales', 'poems', 'sounds'];
   goHome(): void {
     this.router.navigate(['/home']);
   }
