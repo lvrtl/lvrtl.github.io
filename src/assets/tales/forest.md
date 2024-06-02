@@ -1,16 +1,16 @@
 I was once lost in the densest woods I have ever known. Every tree a wall, enforcing a maze, suppressing thought in vastness.
 
-Turn and turn and turn, see the world spin. I saw no way out. But I kept going. Because, where else is there to go but forward?
+Turn and turn and turn, see the world spin. I saw no way out. But I kept going. Where else is there to go but forward?
 
-I ended up giving up on escaping the forest. And yet I continued. I saw the trees, bearing, in subtlety. As I saw the,
+I gave up escaping the forest. I continued. I saw the trees, bearing subtleties. As I saw them,
 I saw their splits, their creaking characters. The timber of their groans resonated with me. I saw the tumbling
-sea of roots beneath my feet and gasped, a maw awed by this ancient tensing. And yet, how selective these were!
+sea of roots beneath my feet and gasped, a maw awed by this ancient tensing and relaxing. And yet, how selective these were!
 Arms above loosening to brushes upon sound. This place was self walling against the worldly blustering that assaults
 most our trees and yet a subtlety remained. Almost louder in the softness it stirred.
 
 Can you hear it about you?
 
-Its hard, when so much is fighting, to hear and see a gentle surrender. And so I too was awfully exposed to nature's ability to align as it does.
+Its hard, when so much is fighting, to hear and see a gentle surrender. And so I was awfully exposed to nature's ability to align as it does.
 
 I submitted to the maze, saw not just it but the stir in my heart towards its veins. Its intimate distance. I flung myself through
 rustles and gaps, bark a peripheral spread. I flew in a state of fever. It could've gone on forever and I would've known
