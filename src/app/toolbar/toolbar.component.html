@@ -1,0 +1,9 @@
+<div id="toolbar">
+  <img id="title" (click)="goHome()" src="assets/title.gif" />
+  <a
+    *ngFor="let sitePart of siteParts"
+    class="toolbar-button"
+    routerLink="/{{ sitePart }}"
+    >{{ sitePart }}</a
+  >
+</div>

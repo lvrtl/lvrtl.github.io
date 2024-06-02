@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  font-family: Bookman, URW Bookman L, serif;
+}
+
+body {
+  background: rgb(149, 46, 230);
+  background: linear-gradient(
+    90deg,
+    rgba(149, 46, 230, 1) 2%,
+    rgba(255, 0, 110, 1) 100%
+  );
+}
+
+a:visited {
+  color: darkgreen;
+}
+a:link {
+  color: lightgreen;
+}
